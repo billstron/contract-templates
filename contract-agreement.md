@@ -1,14 +1,14 @@
 # CONSULTING AGREEMENT
-Consulting Agreement ("Agreement") is dated as of _____________ ("Effective Date"), and is made by and between (i) _______________________________ (CLIENT), and (ii) _______________________________ (CONTRACTOR), with respect to certain services provided by CONTRACTOR as described herein. The parties hereby agree to the following terms and conditions in connection with such services.
+Consulting Agreement ("Agreement") is dated as of \_\_\_\_\_\_\_\_\_\_ ("Effective Date"), and is made by and between (i) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (CLIENT), and (ii) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (CONTRACTOR), with respect to certain services provided by CONTRACTOR as described herein. The parties hereby agree to the following terms and conditions in connection with such services.
 
 ## 1. Services.
 CONTRACTOR agrees to provide needed scope of work as required by CLIENT. All timelines and work scopes will be raised as reasonable and in good faith by CLIENT. Additional services beyond typical services by CONTRACTOR shall be mutually agreed by the parties and governed by this Agreement.
 
 ## 2. Compensation.
-The parties agree that CONTRACTOR will be compensated by CLIENT for its services in connection with projects at a rate of $____/hour. Compensation for any additional services provided by CLIENT relating to the Project shall be as agreed to by the parties.
+The parties agree that CONTRACTOR will be compensated by CLIENT for its services in connection with projects at a rate of $\_\_\_\_\_/hour. Compensation for any additional services provided by CLIENT relating to the Project shall be as agreed to by the parties.
 
 ## 3. Term.
-CONTRACTOR's services in connection with CLIENT shall begin on or about ____________ and continue until Agreement is terminated or no work remains. This Agreement shall govern all services provided by CONTRACTOR. Either party may terminate the Agreement by giving fifteen (15) days prior written notice to the other.
+CONTRACTOR's services in connection with CLIENT shall begin on or about \_\_\_\_\_\_\_\_\_\_ and continue until Agreement is terminated or no work remains. This Agreement shall govern all services provided by CONTRACTOR. Either party may terminate the Agreement by giving fifteen (15) days prior written notice to the other.
 
 ## 4. Confidentiality.
 CONTRACTOR recognizes that certain confidential information concerning CLIENT will be supplied to CONTRACTOR in connection with the Agreement ("Confidential Information"). CONTRACTOR agrees that it will disclose Confidential Information only to those who have a need to know such information, or as required to fulfill obligations of this Agreement. Confidential Information shall not include information that (i) is in the possession of CONTRACTOR prior to its receipt of such information from CLIENT, (ii) is or becomes publicly available other than as a result of a breach of this Agreement by CONTRACTOR, or (iii) is or can be independently acquired or developed by CONTRACTOR without violating any of its obligations under this Agreement.
@@ -45,11 +45,15 @@ Agreement, or the breach, termination or validity thereof, shall be finally sett
 
 
 
-CONTRACTOR __________________________________________ DATE _____________________
+
+
+CONTRACTOR \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ DATE  \_\_\_\_\_\_\_\_\_\_\_
 
 
 
 
 
-CLIENT ______________________________________________ DATE _____________________
+
+
+CLIENT \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ DATE  \_\_\_\_\_\_\_\_\_\_\_
 ￼
